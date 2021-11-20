@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CA00F9</color>
+    <color name="colorPrimaryDark">#4E0DFD</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorTransparent">#00ffffff</color>
+
+    <color name="colorGradientStart">#4E0DFD</color>
+    <color name="colorGradientCenter">#CA00F9</color>
+    <color name="colorGradientEnd">#FD0D5D</color>
+</resources>
